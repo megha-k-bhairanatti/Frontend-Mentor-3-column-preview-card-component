@@ -113,8 +113,3 @@ background-color: var(--dark-cyan);
     }
 }
 
-@media (min-width: 128px){
-.container{
-    max-width: 1100px;
-}
-}
